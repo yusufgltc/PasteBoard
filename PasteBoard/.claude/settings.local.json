@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/yusufgultac/.claude/**)",
+      "Bash(xcodebuild -project PasteBoard.xcodeproj -scheme PasteBoard -configuration Debug build)",
+      "Bash(sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer)",
+      "Bash(xcodebuild -version)",
+      "Bash(mdfind \"kMDItemCFBundleIdentifier == 'com.apple.dt.Xcode'\")",
+      "Bash(DEVELOPER_DIR=/Users/yusufgultac/Downloads/Xcode.app/Contents/Developer /Users/yusufgultac/Downloads/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project /Users/yusufgultac/Developer/PasteBoard/PasteBoard.xcodeproj -scheme PasteBoard -configuration Debug build)",
+      "Bash(DEVELOPER_DIR=/Users/yusufgultac/Downloads/Xcode.app/Contents/Developer /Users/yusufgultac/Downloads/Xcode.app/Contents/Developer/usr/bin/xcodebuild *)",
+      "Bash(grep *)",
+      "Bash(gh auth *)",
+      "Bash(git -C /Users/yusufgultac/Developer/PasteBoard rev-parse --git-dir)"
+    ]
+  }
+}
