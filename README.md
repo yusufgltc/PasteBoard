@@ -1,5 +1,11 @@
 # PasteBoard
 
+[![Release](https://img.shields.io/github/v/release/yusufgltc/PasteBoard?style=flat&label=release&color=blue)](https://github.com/yusufgltc/PasteBoard/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/yusufgltc/PasteBoard/total?style=flat&color=brightgreen)](https://github.com/yusufgltc/PasteBoard/releases)
+[![Stars](https://img.shields.io/github/stars/yusufgltc/PasteBoard?style=flat&color=yellow)](https://github.com/yusufgltc/PasteBoard/stargazers)
+[![macOS 13+](https://img.shields.io/badge/macOS-13%2B-orange?style=flat)](https://github.com/yusufgltc/PasteBoard)
+[![License](https://img.shields.io/github/license/yusufgltc/PasteBoard?style=flat&color=lightgrey)](LICENSE)
+
 macOS 26 Tahoe introduced a native clipboard history — but only for Macs that can run it.
 If your MacBook doesn't support the upgrade, you lose that feature entirely.
 
@@ -35,7 +41,7 @@ brew install --cask yusufgltc/pasteboard/pasteboard
 
 ### Manual
 
-1. Download `PasteBoard.dmg` from the [latest release](https://github.com/ygultac/PasteBoard/releases/latest)
+1. Download `PasteBoard-1.0.0.zip` from the [latest release](https://github.com/yusufgltc/PasteBoard/releases/latest)
 2. Open the DMG and drag **PasteBoard.app** to your Applications folder
 3. Launch PasteBoard from Applications or Spotlight
 
